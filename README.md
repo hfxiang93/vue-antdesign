@@ -1,12 +1,6 @@
-# Ant Design Admin Template
+﻿# Ant Design Admin Template
 ```
 仅提供样式模版，需遵守路由规则
-```
-
-## Deepxi-cli
-```
-npm install deepxi-cli -g
-dp-cli
 ```
 
 ## Project setup
